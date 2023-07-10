@@ -1,0 +1,41 @@
+.destaque-produto{
+    font-weight: bold;
+}
+
+.preco-produto{
+    margin-top: 90px;
+}
+
+.navbar{
+    background-color:#721A0D;
+}
+
+.navbar-brand{
+    margin-left: 98px;
+}
+
+.btn-light{
+    background-color:#ffffff
+}
+
+.d-flex{
+    margin-right: 98px;
+}
+
+.btn-custom{
+    background-color: #721A0D;
+}
+
+.btn-primary{
+    background-color: #721A0D;
+}
+
+.rodape{
+    background-color: #FCFAEF;
+    padding: auto;
+}
+
+.imagem-rodape{
+    padding-left: 94px;
+}
+
